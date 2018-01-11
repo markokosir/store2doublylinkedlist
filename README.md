@@ -1,6 +1,5 @@
 ## Store 2 - Doubly Linked List
-
-This is a compilation of a store programs I wrote for academic purposes using three different data structures from scratch. Store 2 is implemented using doubly linked list. When the program starts it allocates memory for 4 products on heap. Since this version is implemented using doubly linked list, therefore it is possible to allocate memory during runtime.
+Three different data structures written from scratch. Store 2 is implemented using doubly linked list. When the program starts it allocates memory for 4 products on heap. Since this version is implemented using doubly linked list, therefore it is possible to allocate memory during runtime.
 
 Files included:
 * products.txt - sample database
