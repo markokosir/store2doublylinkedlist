@@ -12,11 +12,7 @@ Files included:
 
 Note: All the code is written in pure C programming language, however header file conio.h is inlcuded in this program(windows.h is also included for rendering reasons), which is not part of ANSI C standard.
 
-Tested - Windows XP  
-Compiled - Microsoft Visual Studio 2005  
-
-Upgrade log:  
--ported to MVS 2010  (18.9.2010)
+Tested/Compiled - Windows XP/Microsoft Visual Studio 2005
 
 <!--![screenshot](https://github.com/markokosir/store2doublylinkedlist/blob/master/readmeScreenshot.JPG)-->
 
